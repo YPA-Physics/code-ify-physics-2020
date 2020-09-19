@@ -74,7 +74,7 @@ Fortunately there is no need for fancy source control systems and some command l
 3. Go to the forked repository page in https://github.com/your_github_username/code-ify-physics-2020.
 4. Click on "Add file" dropdown menu, then click "Upload files"
 
-![addfile_menu](upload_file_dropdown.png)
+![addfile_menu](images/upload_file_dropdown.png)
 
 5. Click "choose your files"
 6. Then select your folder that you want as your submission, then click "open"
@@ -86,21 +86,27 @@ Next step making a pull request
 
 1. You can make Pull request using the button make Pull Request(below green Code button). Make sure to you have open a pull request from your fork's `master` branch. To check this there's dropdown menu in the left:
 
-![master](how_to_check_master.png)
-![pr_button](pr_button.png)
+![master](images/how_to_check_master.png)
+![pr_button](images/pr_button.png)
 
 2. Afterwards there is a green button named Create pull request. Click on that
 
-![pr_green](pr_green_button.png)
+![pr_green](images/pr_green_button.png)
 
 3. Make the title of PR like this:
 
 > Submission of <your_name_here>
 
 obviously, without <> signs. If it is necessarry leave some commments. Next make sure you have checked "Allow edits by maintainers", and then click on Create pull request.
-![pr_last](pr_last_button.png)
+![pr_last](images/pr_last_button.png)
 And you are done! Congratulations! You have submitted your work for Code-ify Physics! 2020. If you want to change something till deadline go ahead change in your forked repository it will be changed in Pull Request too. No need for new PR!
 You can also check Python Discord's [page](https://pythondiscord.com/pages/code-jams/pull-request/) about making a PR. However, you have to follow the instructions above.
+
+#### If you still have doubts join our [discord server](5) and ask your question, our team is willing to help you
+
+### Submission via email
+
+If you are having issues with submission process, consider join to our [discord server](5) if anyone does not help or unable to help feel free to ping spitfire#8420. If you are still having issues then feel free to email your submission folder to YPAsubmission@gmail.com. This have to contain same content with submission via GitHub.
 
 ## Things to keep in mind
 
@@ -122,7 +128,16 @@ Your project has to include documentation. At the very least, it should include 
 
 As English is the only language the judges share, we require you to use English as the main language for your project. This means that your variable names, code comments, `git` commit messages, and documentation should all be in English. The text displayed in your result of the project should also be in English, although you are allowed to provide the user with options for internationalization and translation(but not required).
 
+## Sponsors
+
+Thanks to our sponsors the events are possible!
+
+[![wolframalpha](images/WolframAlpha.jpg)](6) [![maplesoft](https://www.maplesoft.com/media/logos/Maplesoft_Logo/Maplesoft_logo.jpg)](7)
+
 [1]: https://forms.gle/P6mUqd6BcGxsNEh18
 [2]: https://github.com/join
 [3]: https://github.com/YPA-Physics/code-ify-physics-2020/fork
 [4]: https://git-scm.com/
+[5]: https://discord.gg/YtYaGpY
+[6]: https://www.wolframalpha.com
+[7]: https://www.maplesoft.com
