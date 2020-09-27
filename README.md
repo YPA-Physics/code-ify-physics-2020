@@ -1,6 +1,6 @@
 # Code-ify Physics! 2020
 
-We are glad to you are participating in YPA's third contest ever, Code-ify Physics! 2020. You may code any physics related program you wish in Python, Java, or any other programming languages. Possibilities include educational software, simulations and demonstrations, websites, and much more! The total prizes available are worth around \$1000!
+We are glad you are participating in YPA's third contest ever, Code-ify Physics! 2020. You may code any physics related program you wish in Python, Java, or any other programming languages. Possibilities include educational software, simulations and demonstrations, websites, and much more! The total prizes available are worth around \$1000!
 
 If you are here about the submission process go straight to the [submission](#submission) part.
 
