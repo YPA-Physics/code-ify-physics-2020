@@ -1,6 +1,6 @@
 # Code-ify Physics! 2020
 
-We are glad to you are participating in YPA's third contest ever Code-ify Physics! 2020. You are supposed to code any physics related program you wish! This can be done in Python, Java, or any other programming languages you desire. Possibilities include educational software, simulations and demonstrations, websites, and much more! The total prizes available are worth around \$1000!
+We are glad to you are participating in YPA's third contest ever, Code-ify Physics! 2020. You may code any physics related program you wish in Python, Java, or any other programming languages. Possibilities include educational software, simulations and demonstrations, websites, and much more! The total prizes available are worth around \$1000!
 
 If you are here about the submission process go straight to the [submission](#submission) part.
 
@@ -22,16 +22,16 @@ If you are here about the submission process go straight to the [submission](#su
 1. Combine physics with computer science in an interesting way.
 2. Submit your codebase and a description of your project.
    - Any programming language may be used.
-   - The description may not be longer than 600 words.
+   - Include a README file with a description of your project as well as any necessary setup procedures (no longer than 600 words).
 3. The submissions will be judged on specific criteria.
    - Useability/Effectiveness: your project accurately serves its designed purpose.
    - Uniqueness/Creativity: novelty and originality of ideas are highly valued.
-   - Implementation of physics: your program must show a significant combination of physics and computer science.
+   - Implementation of physics: your program must mainly be centered around something physics-related.
    - Complexity: thought and time has been put into the project.
 
 ## Rules
 
-1. All work must be largely the contestant’s.
+1. All work must be largely the contestant’s (you may still use libraries and frameworks, just make sure to build on top of them).
 2. If your program is not self explanatory, then you are expected to submit a google docs/word document/pdf explain how to use your program with max 600 words, or have a tutorial on your program.
 3. Do not have your name on your program for judging purposes.
 
@@ -39,9 +39,9 @@ If you are here about the submission process go straight to the [submission](#su
 
 The submission via GitHub is desired by judges. This is easier to look at the code and judge. The submitting process contains a few steps(_Note:_ You need a GitHub account to do this. If you do not have one you can register from [here](2)):
 
-### For contestants who is experienced in GitHub and source control systems
+### For contestants who are experienced in GitHub and source control systems
 
-You should do these steps: Fork this repo/clone it in your local machine/create a folder in root directory(the name of which is your name)/and start making commits _only_ in that folder/create a pull(_Note:_ If your files are in the root directory your work may not be accepted and the pull may not be merged in master branch)
+Fork this repo/clone it in your local machine/create a folder in root directory (the name of which is your name) and start making commits _only_ in that folder and create a pull request (_Note:_ If your files are in the root directory your work may not be accepted and the pull may not be merged in master branch).
 
 ### Detailed explanation of each step for contestants who is inexperienced or who has doubts
 
@@ -67,24 +67,24 @@ The changes you make have to be in your folder and have to be committed to `mast
 
 ### If you are not using a source control system
 
-Fortunately there is no need for fancy source control systems and some command line interactions if you are not familiar with them. You can just upload your files via GitHub's web page. Here instructions:
+Fortunately there is no need for fancy source control systems and command line interactions if you are not familiar with them. You can just upload your files via GitHub's web page. Here are instructions:
 
-1. Create a folder in your computer named with your name
-2. Make changes in it, add whatever your files are
-3. Go to the forked repository page in https://github.com/your_github_username/code-ify-physics-2020.
-4. Click on "Add file" dropdown menu, then click "Upload files"
+1. Create a folder in your computer with your name.
+2. Make changes in it, add all of your project files.
+3. Go to the forked repository page ar https://github.com/your_github_username/code-ify-physics-2020.
+4. Click on "Add file" dropdown menu, then click "Upload files."
 
 ![addfile_menu](images/upload_file_dropdown.png)
 
 5. Click "choose your files"
-6. Then select your folder that you want as your submission, then click "open"
-7. Lastly, at the bottom there's "Commit changes" green button; click on that, and you are done.
+6. Then select the folder that you want as your submission, then click "open"
+7. Lastly, at the bottom there is a "Commit changes" green button; click on that, and you are done.
 
-Next step making a pull request
+The next step is making a pull request!
 
-### 3 Make a Pull Request
+### 3 Create a Pull Request
 
-1. You can make Pull request using the button make Pull Request(below green Code button). Make sure to you have open a pull request from your fork's `master` branch. To check this there's dropdown menu in the left:
+1. You can create a pull request using the button make Pull Request (below the green Code button). Make sure to you have open a pull request from your fork's `master` branch. To check this there's dropdown menu in the left:
 
 ![master](images/how_to_check_master.png)
 ![pr_button](images/pr_button.png)
@@ -102,11 +102,11 @@ obviously, without <> signs. If it is necessarry leave some commments. Next make
 And you are done! Congratulations! You have submitted your work for Code-ify Physics! 2020. If you want to change something till deadline go ahead change in your forked repository it will be changed in Pull Request too. No need for new PR!
 You can also check Python Discord's [page](https://pythondiscord.com/pages/code-jams/pull-request/) about making a PR. However, you have to follow the instructions above.
 
-#### If you still have doubts join our [discord server](5) and ask your question, our team is willing to help you
+#### If you still have doubts join our [Discord server](5) and ask your question, our team is willing to help you out with anything you need!
 
 ### Submission via email
 
-If you are having issues with submission process, consider join to our [discord server](5) if anyone does not help or unable to help feel free to ping spitfire#8420. If you are still having issues then feel free to email your submission folder to YPAsubmission@gmail.com. This have to contain same content with submission via GitHub.
+If you are having issues with submission process, consider join to our [Discord server](5) if anyone does not help or unable to help feel free to ping spitfire#8420. If you are still having issues then feel free to email your submission folder to YPAsubmission@gmail.com. This has to contain same content with submission via GitHub.
 
 ## Things to keep in mind
 
