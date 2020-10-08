@@ -37,7 +37,7 @@ If you are here about the submission process go straight to the [submission](#su
 
 ## Submission
 
-The submission via GitHub is desired by judges. This is easier to look at the code and judge. The submitting process contains a few steps(_Note:_ You need a GitHub account to do this. If you do not have one you can register from [here](2)):
+The submission via GitHub is desired by judges. This is easier to look at the code and judge. The submitting process contains a few steps(_Note:_ You need a GitHub account to do this. If you do not have one you can register from [here][2]):
 
 ### For contestants who are experienced in GitHub and source control systems
 
@@ -47,9 +47,9 @@ Fork this repo/clone it in your local machine/create a folder in root directory 
 
 #### 1. Fork this repository
 
-Start by [forking](3) this repository(just click on the link).
+Start by [forking][3] this repository(just click on the link).
 
-### If you are using a source control system like [git](4)
+### If you are using a source control system like [git][4]
 
 #### 2.1 Clone the repository
 
@@ -71,7 +71,7 @@ Fortunately there is no need for fancy source control systems and command line i
 
 1. Create a folder in your computer with your name.
 2. Make changes in it, add all of your project files.
-3. Go to the forked repository page ar https://github.com/your_github_username/code-ify-physics-2020.
+3. Go to the forked repository page ar <https://github.com/your_github_username/code-ify-physics-2020>.
 4. Click on "Add file" dropdown menu, then click "Upload files."
 
 ![addfile_menu](images/upload_file_dropdown.png)
@@ -102,11 +102,11 @@ obviously, without <> signs. If it is necessarry leave some commments. Next make
 And you are done! Congratulations! You have submitted your work for Code-ify Physics! 2020. If you want to change something till deadline go ahead change in your forked repository it will be changed in Pull Request too. No need for new PR!
 You can also check Python Discord's [page](https://pythondiscord.com/pages/code-jams/pull-request/) about making a PR. However, you have to follow the instructions above.
 
-#### If you still have doubts join our [Discord server](5) and ask your question, our team is willing to help you out with anything you need!
+#### If you still have doubts join our [Discord server][5] and ask your question, our team is willing to help you out with anything you need!
 
 ### Submission via email
 
-If you are having issues with submission process, consider join to our [Discord server](5) if anyone does not help or unable to help feel free to ping spitfire#8420. If you are still having issues then feel free to email your submission folder to YPAsubmission@gmail.com. This has to contain same content with submission via GitHub.
+If you are having issues with submission process, consider join to our [Discord server][5] if anyone does not help or unable to help feel free to ping spitfire#8420. If you are still having issues then feel free to email your submission folder to YPAsubmission@gmail.com. This has to contain same content with submission via GitHub.
 
 ## Things to keep in mind
 
@@ -132,7 +132,7 @@ As English is the only language the judges share, we require you to use English 
 
 Thanks to our sponsors the events are possible!
 
-[![wolframalpha](images/WolframAlpha.jpg)](6) [![maplesoft](https://www.maplesoft.com/media/logos/Maplesoft_Logo/Maplesoft_logo.jpg)](7)
+[![wolframalpha](images/WolframAlpha.jpg)][6] [![maplesoft](https://www.maplesoft.com/media/logos/Maplesoft_Logo/Maplesoft_logo.jpg)][7]
 
 [1]: https://forms.gle/P6mUqd6BcGxsNEh18
 [2]: https://github.com/join
