@@ -71,7 +71,7 @@ Fortunately there is no need for fancy source control systems and command line i
 
 1. Create a folder in your computer with your name.
 2. Make changes in it, add all of your project files.
-3. Go to the forked repository page ar <https://github.com/your_github_username/code-ify-physics-2020>.
+3. Go to the forked repository page at <https://github.com/your_github_username/code-ify-physics-2020>.
 4. Click on "Add file" dropdown menu, then click "Upload files."
 
 ![addfile_menu](images/upload_file_dropdown.png)
