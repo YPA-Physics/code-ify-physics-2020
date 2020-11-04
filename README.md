@@ -37,7 +37,9 @@ If you are here about the submission process go straight to the [submission](#su
 
 ## Submission
 
-The submission via GitHub is desired by judges. This is easier to look at the code and judge. The submitting process contains a few steps(_Note:_ You need a GitHub account to do this. If you do not have one you can register from [here][2]):
+### Submission deadline is 21st November
+
+The submission via GitHub is desired by judges. This is easier to look at the code and judge. The submitting process contains a few steps(_Note:_ You need a GitHub account to do this. If you do not have one you can register from [here][2])
 
 ### For contestants who are experienced in GitHub and source control systems
 
